@@ -1,0 +1,15 @@
+.selected-elements-container {
+  display: flex;
+  gap: 5px;
+  flex-wrap: wrap; 
+}
+
+.selected-element {
+  padding: 5px;
+  border: 1px solid red;
+  border-radius: 4px;
+}
+
+.custom-button {
+  margin: 10px 5px;
+}
